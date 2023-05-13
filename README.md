@@ -121,6 +121,7 @@ _🌟 most interesting_
 * **[SwiftUI Views Mastery](https://www.bigmountainstudio.com/swiftui-views-book)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
 * **[SwiftUI Animations Mastery](https://www.bigmountainstudio.com/swiftui-animations)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
 * **[Working with Data in SwiftUI](https://www.bigmountainstudio.com/data)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
+* **[Core Data Mastery in SwiftUI](https://www.bigmountainstudio.com/core-data)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
 * **[Combine Mastery in SwiftUI](https://www.bigmountainstudio.com/combine)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
 * **[Using Combine](https://heckj.github.io/swiftui-notes/)** ([PDF/ePub at Gumroad](https://gum.co/usingcombine) by [Joseph Heck](https://rhonabwy.com/)
 * **🇨🇳[SwiftUI实战，带你入门苹果最新的UI开发框架 - SwiftUI in Action, bring you the latest UI development framework from Apple](https://juejin.im/book/5db6b0fa6fb9a020446c5278)** by [zixiao233](https://juejin.im/user/5daa73b551882508866e973b)
